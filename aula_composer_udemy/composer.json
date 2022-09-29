@@ -1,0 +1,15 @@
+{
+    "name": "igor/aula_composer_udemy",
+    "description": "aula de php 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "IgorValerio92",
+            "email": "igorv386@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
